@@ -3,5 +3,5 @@
  █▄▄ █▄█ █ █ █ █ ▀ █ █ █ ▀█ █▄█   ▄█▀ █▄█ █▄█ █ ▀█
 </pre>
 <p align="center">
-  <img src="./coming-soon.svg" alt="Coming Soon" width="500">
+  <img src="https://shields.io" alt="Coming Soon" height="40">
 </p>
